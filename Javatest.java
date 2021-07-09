@@ -202,7 +202,7 @@ class JavaTest extends JFrame implements ActionListener {
 	}
 
 	public static void main(String s[]) {
-		new JavaTest("Online Test App");
+		new JavaTest("Java mcq Test App");
 	}
 
 }
